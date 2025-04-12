@@ -1,6 +1,6 @@
 # Building a RAG application from scratch
 
-This is a step-by-step guide to building a simple RAG (Retrieval-Augmented Generation) application using Pinecone and OpenAI's API. The application will allow you to ask questions about any YouTube video. I have modified the original code quite a bit to adapt it to all the changes in langchain APIs and Pinecone APIs. Finally, it works.
+This is a step-by-step guide to building a simple RAG (Retrieval-Augmented Generation) application using Pinecone and OpenAI's API with langchain. The application will allow you to ask questions about any YouTube video. I have modified the original code quite a bit to adapt it to all the changes in langchain APIs and Pinecone APIs. Finally, it works.
 
 ## Setup
 
