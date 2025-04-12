@@ -8,7 +8,7 @@ This is a step-by-step guide to building a simple RAG (Retrieval-Augmented Gener
 
 ```bash
 $ python3 -m venv .venv
-$ source .venv/bin/activate
+$ source .venv/Scripts/activate
 $ pip install -r requirements.txt
 ```
 
