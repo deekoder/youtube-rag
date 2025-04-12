@@ -22,5 +22,5 @@ PINECONE_API_KEY = [ENTER YOUR PINECONE API KEY HERE]
 PINECONE_API_ENV = [ENTER YOUR PINECONE API ENVIRONMENT HERE]
 ```
 
-## View NB
-Github sometimes does not display the notebook previe. Use this link instead https://nbviewer.org/github/deekoder/youtube-rag/blob/main/rag.ipynb
+## View the Python Notebook
+Github sometimes does not display the notebook preview. Use this link instead https://nbviewer.org/github/deekoder/youtube-rag/blob/main/rag.ipynb
